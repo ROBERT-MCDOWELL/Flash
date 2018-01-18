@@ -1,4 +1,4 @@
-# Future-Flash
+# Future-Flash-Framework (FFF)
 Open Source Flash Actionscript Next Generation with webassembly integration
 
 This Git is intended to join knowledge, collaboration, cooperation and skills

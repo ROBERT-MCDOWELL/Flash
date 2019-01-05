@@ -14,4 +14,4 @@ and find the best compromise between the legacy and and new environments.
 Everyone is welcome to be involved in FFF and share competences,
 experiences, knowledge and creativity to succeed the challenge!
 
-<img align="right" src="FFF.png" alt="FFFLogo">
+<img align="center" src="FFF.png" alt="FFFLogo">

@@ -3,8 +3,8 @@
 
 This Git is intended to join knowledge, collaboration,
 cooperation and skills to think of a new way to use 
-the amazing Flash API technology that created during
-the last 20 years wonderful projects and enthusiasm and creativity.
+the amazing Flash API pioneer web technology that created since
+decades games, rich internet applications with enthusiasm, creativity and performance
 
 As Adobe decided to stop to maintain Flash we decided to create
 this git to share links, information but also why not

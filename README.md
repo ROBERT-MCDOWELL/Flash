@@ -12,4 +12,4 @@ to integrate the most transparent possible existing swf and new environment like
 
 Everyone is welcome to be involved in FFF and share competences,
 knowledge and creativity to success the challenge!
-![FFFlogo](FFF.png)
+<img align="center" src="FFF.png" alt="FFFLogo">
